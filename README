@@ -1,3 +1,4 @@
+My first project
 *note no library functions are needed.
 It encrypts text data ,it does not follow any recognised encrytion scheme so you can decrypt you text data only using this program.
 All the input data has to be in lowercase (working on it )
