@@ -1,5 +1,7 @@
-Hi My name is Jithin,this is my first python project.
-note no library functions are needed.
-It basically helps you to encrypt your text files.
-There are three level of encryption possible.
-Decrycption can be done in the same program.
+*note no library functions are needed.
+It encrypts text data ,it does not follow any recognised encrytion scheme so you can decrypt you text data only using this program.
+All the input data has to be in lowercase (working on it )
+next updates will deal with importing textfiles,directly to terminal.
+There are three level of encryption possible.(use 2nd and 3rd level of encryption)
+feel free to contact if you find any difficulties,
+
