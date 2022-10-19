@@ -1,6 +1,8 @@
 To run the code in Linux,or other terminals.
 (Make sure you have python3 installed).
+
 >>>Git clone this tool.
+>>>cd encryptdecrypt
 >>>Python3 textdress.py
 
 
