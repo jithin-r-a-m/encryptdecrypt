@@ -1,16 +1,21 @@
 To run the code in Linux,or other terminals.
+There are two version one with gui interface uploaded a guiV.
 (Make sure you have python3 installed).
 
 >>>Git clone this tool.
 >>>cd encryptdecrypt
->>>Python3 textdress.py
+>>>Python3 textdress.py  #for the terminal interface version
+>>>Python3 guiV.py       #for the gui version
 
 
-*note no library functions are needed.
+For the terminal interface version(*note no library functions are needed.)
 It encrypts text data ,it does not follow any recognised encrytion scheme so you can decrypt text data only using this program.
 All the input data has to be in lowercase (working on it )
 next updates will deal with importing textfiles,directly to terminal.
 There are three level of encryption possible.(use 2nd and 3rd level of encryption)
 feel free to contact if you find any difficulties,
+
+For the gui interface version two library namely tkinter and PIL are used
+gui version allows only level three encryption.
 
 
